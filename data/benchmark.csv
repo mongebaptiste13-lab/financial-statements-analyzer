@@ -1,0 +1,20 @@
+ratio,value,comment
+current_ratio,1.80,Illustrative sector median
+quick_ratio,1.00,Illustrative sector median
+cash_ratio,0.40,Illustrative sector median
+debt_to_equity,0.70,Illustrative sector median
+net_debt_to_ebitda,2.00,Illustrative sector median
+interest_coverage,5.50,Illustrative sector median
+debt_to_assets,0.32,Illustrative sector median
+gross_margin,0.32,Illustrative sector median
+ebitda_margin,0.14,Illustrative sector median
+ebit_margin,0.095,Illustrative sector median
+net_margin,0.060,Illustrative sector median
+roa,0.050,Illustrative sector median
+roe,0.110,Illustrative sector median
+asset_turnover,0.85,Illustrative sector median
+equity_multiplier,1.90,Illustrative sector median
+dso,58,Illustrative sector median (days)
+dio,85,Illustrative sector median (days)
+dpo,58,Illustrative sector median (days)
+cash_conversion_cycle,85,Illustrative sector median (days)
